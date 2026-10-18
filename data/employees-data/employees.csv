@@ -1,0 +1,16 @@
+id,name,age,salary,address,nominee_name,nominee_relationship
+1,Manish Kumar,28,75000.00,"Patna, Bihar",Suresh Kumar,Father
+2,Nikita Sharma,25,100000.00,"Lucknow, Uttar Pradesh",Ramesh Singh,Father
+3,Pritam Das,24,150000.00,"Bangalore, Karnataka",Anjali Sharma,Spouse
+4,Prantosh Roy,32,200000.00,"Kolkata, West Bengal",,
+5,Vikash Verma,35,300000.00,"New Delhi, Delhi",Pooja Gupta,Spouse
+6,Priya Nair,29,85000.00,"Kochi, Kerala",Mohan Nair,Father
+7,Rohan Mehta,45,350000.00,"Mumbai, Maharashtra",Sneha Mehta,Spouse
+8,Anjali Reddy,27,95000.00,,Kavita Reddy,Mother
+9,Saurabh Pandey,38,250000.00,"Pune, Maharashtra",,
+10,Deepika Iyer,31,120000.00,"Chennai, Tamil Nadu",Rajesh Iyer,Husband
+11,Arjun Patel,33,180000.00,"Ahmedabad, Gujarat",Meera Patel,Spouse
+12,Kavya Rao,,220000.00,"Jaipur, Rajasthan",Lakshmi Rao,Mother
+13,Sanjay Gupta,41,320000.00,"Sector 5, ""Green Valley"", Gurgaon, Haryana",Anita Gupta,Spouse
+14,Nisha Joshi,26,90000.00,"Indore, Madhya Pradesh",,
+15,Aditya Nair,37,275000.00,"Trivandrum, Kerala",Latha Nair,Mother
